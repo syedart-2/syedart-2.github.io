@@ -4161,41 +4161,102 @@ body {
     padding: 0 0 2rem 0 !important;
   }
 }
-.cid-qRg1xaRomU {
-  padding-top: 60px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/islamic-wallpaper-3-900x675.jpg");
+.cid-qRg6L6o27t {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/islamic-wallpaper-mosque-0051024x768-znvjs-pak101dotcom-1024x768.jpg");
 }
-.cid-qRg1xaRomU .title {
-  margin-bottom: 2rem;
+.cid-qRg6L6o27t .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
 }
-.cid-qRg1xaRomU .mbr-section-subtitle {
-  color: #767676;
+.cid-qRg6L6o27t .input {
+  margin-bottom: 15px;
 }
-.cid-qRg1xaRomU a:not([href]):not([tabindex]) {
+.cid-qRg6L6o27t .map {
+  width: 100%;
+  height: 30rem;
+}
+.cid-qRg6L6o27t .map iframe {
+  width: inherit;
+  height: 100%;
+}
+.cid-qRg6L6o27t .icon-block {
+  margin-bottom: 10px;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-qRg6L6o27t .icon-block .icon-block__icon {
+  display: inline-block;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-qRg6L6o27t .icon-block .icon-block__title {
+  display: inline-block;
+  align-self: center;
+  -webkit-align-self: center;
+  margin-bottom: 0;
+  line-height: 1;
+  font-style: italic;
+}
+.cid-qRg6L6o27t .mbr-text {
+  color: #ffffff;
+}
+.cid-qRg6L6o27t a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qRg1xaRomU a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qRg1xaRomU .multi-horizontal {
+.cid-qRg6L6o27t .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qRg1xaRomU .input-group-btn {
+.cid-qRg6L6o27t .input-group-btn {
   display: block;
   text-align: center;
 }
-.cid-qRg1xaRomU .mbr-section-subtitle DIV {
-  color: #efefef;
+.cid-qRg6L6o27t .google-map {
+  height: 25rem;
+  position: relative;
 }
-.cid-qRg1xaRomU H2 {
-  color: #cccccc;
+.cid-qRg6L6o27t .google-map iframe {
+  height: 100%;
+  width: 100%;
 }
-.cid-qRg1xaRomU LABEL {
-  color: #ffffff;
+.cid-qRg6L6o27t .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-qRg6L6o27t .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-qRg6L6o27t .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-qRg6L6o27t h2 {
+    padding-top: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-qRg6L6o27t .container > .row > .col-md-6:first-child {
+    padding-right: 30px;
+  }
+  .cid-qRg6L6o27t .container > .row > .col-md-6:last-child {
+    padding-left: 30px;
+  }
+}
+.cid-qRg6L6o27t H4 {
+  color: #232323;
 }
 .cid-qR3GIckMLg {
   padding-top: 45px;
